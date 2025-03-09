@@ -16,7 +16,7 @@
 
 Introduction
 
-Task 4 focuses on designing and simulating a speech-controlled automation system using Arduino UNO. Since direct voice input isn't supported in Tinkercad, the project simulates voice control using Serial Monitor input to represent voice commands converted to characters (as if sent from a Bluetooth-based mobile voice app).
+This task focuses on designing and simulating a speech-controlled automation system using Arduino UNO. Since direct voice input isn't supported in Tinkercad, the project simulates voice control using Serial Monitor input to represent voice commands converted to characters (as if sent from a Bluetooth-based mobile voice app).
 
 The system consists of three LEDs representing appliances (Red, Yellow, Green), which can be controlled individually or all at once by sending specific characters ('a' to 'h') via the Serial Monitor. This task emphasizes concepts like serial input handling, digital output control, and user interaction via software commands.
 
