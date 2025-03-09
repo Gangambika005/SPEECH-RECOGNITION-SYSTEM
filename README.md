@@ -93,8 +93,19 @@ Conclusion :
 This task successfully simulates a speech recognition system using Serial Monitor input as a substitute for real voice commands. The circuit handles individual and group device control using simple character-based logic, making it a great foundation for future voice-controlled IoT applications. The task also demonstrates essential embedded concepts: input parsing, conditional logic, hardware simulation, and safe circuit design with resistors.
 
 "OUTPUT" :
+1-ALL LED's ARE OFF
+2-A(RED ON)
+3-C(YELLOW ON)
+4-E(GREEN ON)
+5-G ALL LED's ARE ON
 
 ![Image](https://github.com/user-attachments/assets/ba3a547c-5692-4d09-930e-922ae2c6aada)
+![Image](https://github.com/user-attachments/assets/519526b2-735f-43f4-b3ac-97533c973b2a)
+
+![Image](https://github.com/user-attachments/assets/bc412c8a-699c-451f-a90d-53591a792b32)
+
+![Image](https://github.com/user-attachments/assets/16a66850-2703-4c2c-b183-37e55cfc0df7)
+![Image](https://github.com/user-attachments/assets/c5ae1868-4803-429f-899e-fb4e02b892d8)
 
 
 
