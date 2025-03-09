@@ -94,9 +94,13 @@ This task successfully simulates a speech recognition system using Serial Monito
 
 "OUTPUT" :
 1-ALL LED's ARE OFF
+
 2-A(RED ON)
+
 3-C(YELLOW ON)
+
 4-E(GREEN ON)
+
 5-G ALL LED's ARE ON
 
 ![Image](https://github.com/user-attachments/assets/ba3a547c-5692-4d09-930e-922ae2c6aada)
