@@ -92,6 +92,9 @@ It can be expanded into real implementations by adding modules like HC-05 Blueto
 Conclusion :
 This task successfully simulates a speech recognition system using Serial Monitor input as a substitute for real voice commands. The circuit handles individual and group device control using simple character-based logic, making it a great foundation for future voice-controlled IoT applications. The task also demonstrates essential embedded concepts: input parsing, conditional logic, hardware simulation, and safe circuit design with resistors.
 
+"OUTPUT" :
+
+![Image](https://github.com/user-attachments/assets/ba3a547c-5692-4d09-930e-922ae2c6aada)
 
 
 
